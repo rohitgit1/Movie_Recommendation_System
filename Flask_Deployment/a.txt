@@ -1,1 +1,2 @@
 
+This is a simple text file, which is created to store some additional data if there exits any such data which user must know.
