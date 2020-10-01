@@ -4,5 +4,5 @@
 
 1. HTML files for front and result page
 2. App.py file for backend
-3. Saved Model file(.pkl)
+3. Saved Model file(.pkl) for instant processing.
 4. Dataset csv file
